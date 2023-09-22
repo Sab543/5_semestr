@@ -8,6 +8,8 @@
 Excel \ python \ matplotlib
 
 excel таблица https://docs.google.com/spreadsheets/d/1DNmdfJ-fR-vbtg9hzYb5140YrLyiACBaEDNwaJ8ABZY/edit?usp=sharing
+реплит https://replit.com/@Sab543/chisliennyie-mietody#matrices.py
+
 Задание : решить слау или решить систему уравнений.
 
 Метод Крамера 1.1 посчитать в exel 1.2 посчитать в реплите 1.3 матплотлиб построить график
