@@ -1,5 +1,7 @@
 пп https://drive.google.com/drive/folders/1reB9ru9Q7tIUNwX0aMUvGOz5tPUOmeSI
 
+презентация по пп https://docs.google.com/presentation/d/116HLrikDCEvLcl9BRue83TH3y6IfjRZztFPAwy7uwao/edit?usp=sharing
+
 уп https://drive.google.com/drive/folders/1vh4W-m_Mr_5gbfhKG7ktKVxXcdgY70Tz
 ![image](https://github.com/Sab543/5_semestr/assets/113089570/7ce93783-5041-4461-b0d5-566c04963cd6)
 ![image](https://github.com/Sab543/5_semestr/assets/113089570/a95f2df1-c667-40ec-a0f9-7fa0fa4fc999)
