@@ -12,3 +12,5 @@ commit - сохранение
 5. сохранить
 6. указать репозиторий куда нужно файлы отправить
 7. отправить файлы 
+git remote sat-url origin
+![image](https://github.com/Sab543/6_semestr/assets/113089570/4e0422c9-29d2-4299-a807-af4d396faa8d)
